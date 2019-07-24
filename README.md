@@ -17,8 +17,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Beeso Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Beeso Core software, see [https://beeso.org](https://beeso.org).
 
 License
 -------
@@ -34,12 +32,7 @@ completely stable. [Tags](https://github.com/beeso-project/beeso/tags) are creat
 regularly to indicate new official, stable release versions of Beeso Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-The developer [mailing list](https://groups.google.com/forum/#!forum/beeso-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
-
-Developer IRC can be found on Freenode at #beeso-dev.
+https://github.com/LadyPhoeynix/Beeso
 
 Testing
 -------
