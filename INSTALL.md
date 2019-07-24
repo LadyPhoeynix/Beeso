@@ -1,5 +1,5 @@
-Building Litecoin
+Building Beeso
 ================
 
 See doc/build-*.md for instructions on building the various
-elements of the Litecoin Core reference implementation of Litecoin.
+elements of the Beeso Core reference implementation of Beeso.
